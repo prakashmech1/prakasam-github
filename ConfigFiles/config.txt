@@ -1,0 +1,5 @@
+username
+userpwd
+json file path
+test data root path
+credit card path
