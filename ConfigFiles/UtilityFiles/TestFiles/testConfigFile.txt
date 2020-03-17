@@ -1,0 +1,4 @@
+automation test
+@test methods
+@BeforeMethod
+@AfterMethod
